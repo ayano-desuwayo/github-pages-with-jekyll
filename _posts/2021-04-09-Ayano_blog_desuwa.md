@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Ayano Desuwayo!"
+---
+
 # 2021 04 09 Ayano blog
 
 This is Test blog.
